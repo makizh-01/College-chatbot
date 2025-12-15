@@ -1,0 +1,7 @@
+{
+  "name": "SankaraConnect",
+  "description": "AI-powered college chatbot with voice control and 3D visuals, providing real-time information from Sankara College.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
